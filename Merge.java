@@ -2,6 +2,9 @@ public class Merge {
 
     public static void main(String[] args) {
        
+        
         System.out.println("Hello Merged Class");
+                System.out.println("Hello Merged 2");
+
     }
 }
