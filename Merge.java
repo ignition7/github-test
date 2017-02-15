@@ -5,6 +5,7 @@ public class Merge {
         
         System.out.println("Hello Merged Class");
                 System.out.println("Hello Merged 2");
+                System.out.println("Hello Merged 3");
 
     }
 }
